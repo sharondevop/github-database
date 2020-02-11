@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b79553b7-8051-4e80-96fe-279a9eadc41f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DepsProjectDetails">
+    <option name="cachedModuleDetails">
+      <map>
+        <entry key="$PROJECT_DIR$/deps.edn">
+          <value>
+            <ModuleDetails>
+              <option name="details" value="{:paths [&quot;src&quot;], :deps {org.clojure/clojure {:mvn/version &quot;1.10.1&quot;}}, :aliases {:deps {:extra-deps {org.clojure/tools.deps.alpha {:mvn/version &quot;0.8.599&quot;}}}, :test {:extra-paths [&quot;test&quot;]}}, :mvn/repos {&quot;central&quot; {:url &quot;https://repo1.maven.org/maven2/&quot;}, &quot;clojars&quot; {:url &quot;https://repo.clojars.org/&quot;}}, :system-aliases #{:test :deps}, :deps-tree {org.clojure/clojure {:mvn/version &quot;1.10.1&quot;, :deps/manifest :mvn, :paths [&quot;/Users/sharon/.m2/repository/org/clojure/clojure/1.10.1/clojure-1.10.1.jar&quot;], :children (org.clojure/spec.alpha org.clojure/core.specs.alpha)}, org.clojure/spec.alpha {:mvn/version &quot;0.2.176&quot;, :deps/manifest :mvn, :paths [&quot;/Users/sharon/.m2/repository/org/clojure/spec.alpha/0.2.176/spec.alpha-0.2.176.jar&quot;], :dependents [org.clojure/clojure], :children ()}, org.clojure/core.specs.alpha {:mvn/version &quot;0.2.44&quot;, :deps/manifest :mvn, :paths [&quot;/Users/sharon/.m2/repository/org/clojure/core.specs.alpha/0.2.44/core.specs.alpha-0.2.44.jar&quot;], :dependents [org.clojure/clojure], :children ()}}, :test-paths [&quot;test&quot;]}" />
+              <option name="hash" value="e846f3bc059bb36d221e5e0107399dac" />
+            </ModuleDetails>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="github-database" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJcsuChGVwFb3VTB5xt7RMrzZt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="cursive.last.file.extension./Users/sharon/repository/github-database/src" value="clj" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReplState" timestamp="1581456101081">{:repl-history {:ide [], :local [{:command &quot;(+ 1 2)&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(ns core)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(def users [{:username      \&quot;viebel\&quot;\n             :name          \&quot;Yehonathan Sharvit\&quot;\n             :email         \&quot;ys@me.com\&quot;\n             :organizations [\&quot;ibm\&quot; \&quot;google\&quot;]}\n            \n            {:username \&quot;zepad\&quot;\n             :name \&quot;Zachary Tanner\&quot;\n             :email \&quot;zt@me.com\&quot;\n             :organizations [\&quot;microsoft\&quot;]}])&quot;, :offset 328, :ns &quot;core&quot;} {:command &quot;(def users [{:username      \&quot;viebel\&quot;\n             :name          \&quot;Yehonathan Sharvit\&quot;\n             :email         \&quot;ys@me.com\&quot;\n             :organizations [\&quot;ibm\&quot; \&quot;google\&quot;]}\n            {:username \&quot;zepad\&quot;\n             :name \&quot;Zachary Tanner\&quot;\n             :email \&quot;zt@me.com\&quot;\n             :organizations [\&quot;microsoft\&quot;]}])&quot;, :offset 315, :ns &quot;core&quot;} {:command &quot;(def repositories {:owner \&quot;viebel\&quot; [:name \&quot;klipse\&quot; :stars 23451 :forks 1254]})&quot;, :offset 78, :ns &quot;core&quot;}], :remote []}}</component>
+  <component name="RunManager">
+    <configuration name="REPL for github-database" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="github-database" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="DEPS" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure REPL.REPL for github-database" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b79553b7-8051-4e80-96fe-279a9eadc41f" name="Default Changelist" comment="" />
+      <created>1580767847671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580767847671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="264" width="937" height="671" key="#Project_Structure" timestamp="1580768535828">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="559" y="264" width="937" height="671" key="#Project_Structure/0.0.1920.1200@0.0.1920.1200" timestamp="1580768535828" />
+    <state x="423" y="261" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580860876274">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="423" y="261" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1580860876274" />
+    <state x="718" y="468" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580841860588">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="718" y="468" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1200@0.0.1920.1200" timestamp="1580841860588" />
+    <state x="547" y="349" key="IDE.errors.dialog" timestamp="1580846925338">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="547" y="349" key="IDE.errors.dialog/0.0.1920.1200@0.0.1920.1200" timestamp="1580846925338" />
+    <state x="468" y="239" key="SettingsEditor" timestamp="1580768477084">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="468" y="239" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1580768477084" />
+    <state x="637" y="431" key="com.intellij.ide.util.TipDialog" timestamp="1581010311602">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="637" y="431" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581010311602" />
+    <state x="624" y="284" key="run.anything.popup" timestamp="1581171058066">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="624" y="284" key="run.anything.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1581171058066" />
+  </component>
+</project>
